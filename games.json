@@ -60,9 +60,9 @@
     "appStoreUrl": "https://apps.apple.com/sa/app/daily-word-mystery/id6753567253?platform=iphone"
   },
     {
-    "name": "Minesweeper",
-    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/mineSweeperIcon.png",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.minesweeperbattleclash&hl=en_IN",
-    "appStoreUrl": "https://apps.apple.com/sa/app/minesweeper-battle-clash/id6753588527?platform=iphone"
+    "name": "Pixel Art : Color Drawing",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/pixelIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.pixelartcolorpro&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/pixel-art-color-drawing/id6753590258?platform=iphone"
   }
 ]
