@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ball Sort",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/ballSortIosLogo.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.ballsort&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/ball-sort-ultimate/id6753275591?platform=iphone"
+  },
+  {
+    "name": "Hangman",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/hangmanIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.hangmanWord&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/hangman-word-master-challenge/id6753586371?platform=iphone"
+  },
+  {
+    "name": "Truth or Dare: Spinner",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/truthIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.truthdare&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/truth-dare-spinner/id6753069541?platform=iphone"
+  },
+  {
+    "name": "Tic Tac Toe XO Battle",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/ticTacIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.ticTacToeGlow&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/tic-tac-toe-xo-battle/id6753287731?platform=iphone"
+  },
+  {
+    "name": "Stack Snap 3D",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/stackIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.stacksnappuzzle&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/stack-snap-3d/id6753793162?platform=iphone"
+  },
+  {
+    "name": "Bricks Bash Blitz Breaker",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/bricksIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.ballblastpuzzle&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/bricks-bash-blitz-breaker/id6753622208?platform=iphone"
+  },
+  {
+    "name": "Pixel Art : Color Drawing",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/pixelIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.pixelartcolorpro&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/pixel-art-color-drawing/id6753590258?platform=iphone"
+  },
+  {
+    "name": "Minesweeper",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/mineSweeperIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.minesweeperbattleclash&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/minesweeper-battle-clash/id6753588527?platform=iphone"
+  },
+  {
+    "name": "Word Search",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/wordSearchIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.wordSearch&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/word-search-adventure/id6753294659?platform=iphone"
+  },
+  {
+    "name": "Unlimited Wordle",
+    "icon": "https://raw.githubusercontent.com/meetanshiAppDevloper/My-game-assets/refs/heads/main/wordleIcon.png",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.meetanshi.wordailyPuzzle&hl=en_IN",
+    "appStoreUrl": "https://apps.apple.com/sa/app/daily-word-mystery/id6753567253?platform=iphone"
+  }
+]
